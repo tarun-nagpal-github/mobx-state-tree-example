@@ -1,0 +1,23 @@
+{
+  "name": "mobx-state-tree-getting-started-11-forked",
+  "version": "0.0.0",
+  "description": "An Example to show the power of MobX State Tree",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "mobx": "latest",
+    "mobx-react": "latest",
+    "mobx-state-tree": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
